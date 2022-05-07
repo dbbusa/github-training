@@ -1,0 +1,48 @@
+{
+    "terminal.integrated.tabs.enabled": true,
+    "terminal.integrated.letterSpacing": 1,
+    "terminal.integrated.fontSize": 16,
+    "workbench.preferredDarkColorTheme": "Darcula Theme from IntelliJ",
+    "workbench.colorTheme": "Darcula Theme from IntelliJ",
+    "workbench.preferredLightColorTheme": "Darcula Theme from IntelliJ",
+    "editor.semanticTokenColorCustomizations": null,
+    "files.autoSave": "afterDelay",
+    "workbench.preferredHighContrastColorTheme": "Darcula Theme from IntelliJ",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontLigatures": null,
+    "terminal.integrated.fontWeightBold": null,
+    "workbench.colorCustomizations": {
+
+        "statusBar.background": "#1b1b1b",
+        "activityBar.background": "#1b1b1b",
+        "activityBar.activeBackground": "#444",
+        "minimap.background": "#0278bd0D",
+        "titleBar.activeBackground": "#1b1b1b",
+        "sideBar.background": "#1b1b1b",
+        "sideBarSectionHeader.background": "#0278bd58",
+        "sideBarTitle.foreground": "#0278bd"
+        
+    },
+    "blade.format.enable": true,
+    "typescript.inlayHints.enumMemberValues.enabled": true,
+    "window.autoDetectHighContrast": false,
+    "[blade]": {
+        "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+    },
+    "git.autofetch": true,
+    "editor.linkedEditing": true,
+    "bladeFormatter.format.wrapAttributes": "preserve-aligned",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "files.autoSaveDelay": 5000,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "cSpell.userWords": [
+        "Bhavnagar",
+        "Darshit",
+        "fullname",
+        "sidefix"
+    ],
+    "window.zoomLevel": -1,
+    "editor.codeActionsOnSave": {}
+}
