@@ -1,1 +1,1 @@
-# test_git
+# github-training
